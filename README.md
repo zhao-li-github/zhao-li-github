@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zhao (Marie)
+- 👀 I’m interested in data science and analysis
+- 🌱 I’m currently learning NoSQL & Spark
+- 📫 Please reach me at zhao.li.ucla@gmail.com
