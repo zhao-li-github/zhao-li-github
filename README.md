@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zhao (Marie)
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently practicing R
+- 👀 I’m a data scientist working on underwriting models
+- 🌱 I’m currently studying database systems
 - 📫 Please reach me at zhao.li.ucla@gmail.com
